@@ -13,5 +13,5 @@ order: 4
 asdfasdfasdfasdf
 asdfasdf
 <img src="https://www.hackthebox.eu/badge/image/854155" alt="HTB Profile Badge" height="auto"/> 
-<img src="https://tryhackme-badges.s3.amazonaws.com/luckyStr1ke.png" alt="THM Profile Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/luckyStr1ke.png" alt="THM Profile Badge" height="auto" />
 
