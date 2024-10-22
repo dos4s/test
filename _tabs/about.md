@@ -13,4 +13,4 @@ order: 4
 asdfasdfasdfasdf
 asdfasdf
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2382695" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/luckyStr1ke.png" alt="THM Profile Badge" />
