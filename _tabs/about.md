@@ -9,6 +9,7 @@ order: 4
 
 
 <hr>
+<div style="height:auto; width: 200px;">
 <img src="https://tryhackme-badges.s3.amazonaws.com/luckyStr1ke.png" alt="THM Profile Badge" style="max-width: 101%; max-height: 200%; display: block; margin: auto;"/>
 </div>
 <div style="height:auto; width: 200px;">
