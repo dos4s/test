@@ -8,6 +8,8 @@ order: 4
 {: .prompt-tip }
 
 
-<br><img src="https://tryhackme-badges.s3.amazonaws.com/luckyStr1ke.png" alt="THM Profile Badge" height="auto" /></br>
-<img src="https://www.hackthebox.eu/badge/image/854155" alt="HTB Profile Badge" height="auto"/> 
+<hr>
+<img src="https://tryhackme-badges.s3.amazonaws.com/luckyStr1ke.png" alt="THM Profile Badge" height="auto" />
+<img src="https://www.hackthebox.eu/badge/image/854155" alt="HTB Profile Badge" height="80"/> 
+<hr>
 
